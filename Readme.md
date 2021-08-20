@@ -39,7 +39,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/singh-shivam789/text-translator
+    $ git clone https://github.com/singh-shivam789/text-translator.git
     $ cd text-translator
     $ npm install
 
