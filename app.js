@@ -6,7 +6,7 @@ const db = require('./config/mongoose');
 const TranslationModel = require('./models/translation_schema');
 
 //defining port
-const port = process.env.PORT || 5000;
+const port = 5000;
 
 //initializing express app
 const app = express();
