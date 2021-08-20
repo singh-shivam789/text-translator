@@ -142,7 +142,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 I wanted the color theme to be dark and catchy. 
 
-![Final Design ](assets\images\design.png)
+![Final Design ](/assets/images/design.png)
 
 #### Elements
   -   **textarea element** is used to take input text and show translated text
