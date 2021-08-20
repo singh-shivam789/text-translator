@@ -1,4 +1,4 @@
-//requiring frameworks and files
+//requiring dependencies
 const express = require('express');
 const translator = require('@vitalets/google-translate-api');
 const path = require('path');
