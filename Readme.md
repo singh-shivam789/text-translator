@@ -61,7 +61,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
   - [express](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
   - [ejs](https://ejs.co/) - View engine 
-  - [@vitalets/google-translate-api](https://www.npmjs.com/package/@vitalets/google-translate-api) -A free and unlimited API for Google Translate 💵 🚫 for Node.js.B data to javascript 
+  - [@vitalets/google-translate-api](https://www.npmjs.com/package/@vitalets/google-translate-api) -A free and unlimited API for Google Translate 💵 🚫 for Node.js. 
   - [mongoose](https://www.npmjs.com/package/mongoose) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment
   - [chai](https://www.npmjs.com/package/chai) - Assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
   - [chai-http](https://www.npmjs.com/package/chai-http) -Extend Chai Assertion library with tests for http apis
