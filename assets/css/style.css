@@ -1,0 +1,43 @@
+#heading {
+    margin-top: 5%;
+    padding: 2%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+#list-header {
+    margin-bottom: 1%;
+}
+
+#translation-container {
+    margin-top: 3%;
+}
+
+textarea {
+    white-space: normal;
+    text-align: start;
+    -moz-text-align-last: start;
+    /* Firefox 12+ */
+    text-align-last: start;
+}
+
+body {
+    background-color: #000000;
+}
+
+label {
+    color: gold;
+}
+
+.form-group-2,
+.form-group-1 {
+    margin-bottom: 9% !important;
+}
+
+.form-group-3 {
+    margin-top: 5% !important;
+}
+
+.form-group-4 {
+    margin-top: -6%;
+}
