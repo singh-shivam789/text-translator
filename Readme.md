@@ -1,4 +1,4 @@
-# Text Translation
+# Text Translator
 
 A web server with a RESTful API to translate a text from one language to another using Google Translate API.
 
